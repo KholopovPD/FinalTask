@@ -37,5 +37,5 @@ void Print(string[] array)
     Console.Write("]");
 }
 task(arr1, arr2);
-Console.WriteLine("Получившийся массив с строк с элементами длина которых меньше либо равна 3 :");
+Console.WriteLine("Получившийся массив строк с элементами, длина которых меньше либо равна 3 :");
 Print(arr2);
