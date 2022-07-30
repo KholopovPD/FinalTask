@@ -16,7 +16,7 @@ void task(string[] array1, string[] array2)
         }
     }
 }
-int count = 0;
+int count = 0; // Решена проблема с длинной нового массива
 for (int i = 0; i < arr1.Length; i++)
 {
     {
